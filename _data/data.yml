@@ -1,41 +1,41 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: 吕洋
+  title: 前端工程师（实习）
   avatar:
     display: true
     path: profile.png
 
 contact:
-  location:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  location:深圳/广州
+  email: young_gzhu@163.com
+  phone: +86-151-8292-4769
   website: example.com
-  wechat:
+  wechat:15182924769
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/JNUYoung
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
 
-profile:
-  display: true
-  title: Profile
-  details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+# profile:
+#   display: true
+#   title: Profile
+#   details: |
+#     It's your career profile, you can wirte markdown format text.
+#     + First
+#     + Second
 
-    ...
+#     ...
 
-experiences:
+教育经历:
   display: true
   title: Experiences
   items:
