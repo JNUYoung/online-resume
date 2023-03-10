@@ -1,12 +1,12 @@
 basic:
-  name: 吕洋
-  title: 前端工程师（实习）
+  name: lv yang
+  title: Front-End Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  location:深圳/广州
+  location: shenzhen/guangzhou
   email: young_gzhu@163.com
   phone: +86-151-8292-4769
   website: example.com
@@ -35,7 +35,7 @@ contact:
 
 #     ...
 
-教育经历:
+EDUCATION EXPERIENCES:
   display: true
   title: Experiences
   items:
